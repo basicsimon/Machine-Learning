@@ -1,13 +1,13 @@
-# House Price Prediction with Gradient Boosting
+# House Price Prediction with Gradient Boosting🏠
 
 This project predicts housing prices using **Linear Regression** and **Gradient Boosting Regressor**.  
 It uses the California housing dataset (`housing.csv`) as input.
 
 ## Requirements
-- Python 3.9+ (via conda recommended)
-- pandas
-- scikit-learn
-- matplotlib
+- Python 3.9+ (via conda recommended)🐍
+- pandas🐼
+- scikit-learn📊
+- matplotlib🗺️
 
 ## Setup
 Create and activate a conda environment:
