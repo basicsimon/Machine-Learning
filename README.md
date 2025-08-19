@@ -9,24 +9,6 @@ Welcome to my **personal Machine Learning project portfolio**! 🚀
 
 This repository showcases my journey in **machine learning**, from fundamental algorithms to advanced models. Each project demonstrates my ability to analyze data, train and evaluate models, and visualize results effectively.
 
----
-
-## 📂 Project Structure
-
-Each task is organized in a separate folder for clarity:
-
-
-Machine-Learning/
-├─ Task1/
-│ ├─ House_Price_Prediction_with_Gradient_Boosting.py
-│ ├─ housing.csv
-│ └─ README.md
-├─ Task2/
-│ └─ ...
-└─ README.md
-├─ Task3/
-│ └─ ...
-└─ README.md
 
 
 ---
